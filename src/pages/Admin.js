@@ -8,7 +8,6 @@ export default function Admin() {
             <Navbar></Navbar>
             <hr/>
             <h1>Admin Page</h1>
-            <Footer></Footer>
         </>
     )
 }
